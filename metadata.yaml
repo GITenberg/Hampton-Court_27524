@@ -38,5 +38,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Hampton Court (Richmond upon Thames, London, England)'
 - !lcc 'DA'
+- GITenberg
 title: Hampton Court
 url: http://www.gutenberg.org/ebooks/27524
